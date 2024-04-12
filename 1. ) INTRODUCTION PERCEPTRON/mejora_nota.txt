@@ -1,0 +1,25 @@
+EJERCICIO #1
+1.) cambiar la descripcion de nx 
+
+
+EJERCICIO #2
+2.) dar ayuda en la aplanacion de la matriz dando documentacion de reshape
+
+3.) colocar las variables iniciales train_set_x_plano,test_set_x_plano 
+
+EJERCICIO #3
+variable inicial s 
+clarificar donde se escribe el codigo 
+devuelve el valor s
+
+EJERCICIO #4
+cambiar en el texto la dimension de w por nx x 1
+inicializar w,b 
+devolver w,b
+
+EJERCICIO #6
+mejorar explicacion de backward propagation 
+
+EJERCICIO #7
+agregar lista de costos
+inicializar grads y cost
